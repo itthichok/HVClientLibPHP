@@ -46,6 +46,7 @@ try {
   print '<br><a href="list_all_things.php">List all things</a>';
   print '<br><a href="files.php">Files example</a>';
   print '<br><a href="weight.php">Weight example</a>';
+  print '<br><a href="immunization.php">Immunization example</a>';
 }
 catch (HVRawConnectorUserNotAuthenticatedException $e) {
   print "You're not authenticated! ";
