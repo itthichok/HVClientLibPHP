@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<thing>
+  <type-id name="Immunization #(v2)">cd3587b5-b6e1-4565-ab3b-1c3ad45eb04f</type-id>
+  <data-xml>
+    <immunization>
+      <name>
+        <text />
+        <code>
+          <value />
+          <family />
+          <type />
+          <version />
+        </code>
+      </name>
+      <administration-date>
+        <structured>
+          <date>
+            <y />
+            <m />
+            <d />
+          </date>
+          <time>
+            <h />
+            <m />
+            <s />
+            <f />
+          </time>
+        </structured>
+      </administration-date>
+      <administrator>
+        <name>
+          <full />
+          <title>
+            <text />
+            <code>
+              <value />
+              <family />
+              <type />
+              <version />
+            </code>
+          </title>
+          <first />
+          <middle />
+          <last />
+        </name>
+        <organization />
+        <professional-training />
+        <contact>
+          <address>
+            <description />
+            <is-primary />
+            <street />
+            <city />
+            <state />
+            <postcode />
+            <country />
+          </address>
+          <phone>
+            <description />
+            <is-primary />
+            <number />
+          </phone>
+          <email>
+            <description />
+            <is-primary />
+            <address />
+          </email>
+        </contact>
+      </administrator>
+      <manufacturer>
+        <text />
+        <code>
+          <value />
+          <family />
+          <type />
+          <version />
+        </code>
+      </manufacturer>
+      <lot />
+      <route>
+        <text />
+        <code>
+          <value />
+          <family />
+          <type />
+          <version />
+        </code>
+      </route>
+      <expiration-date>
+        <y />
+        <m />
+        <d />
+      </expiration-date>
+      <anatomic-surface>
+        <text />
+        <code>
+          <value />
+          <family />
+          <type />
+          <version />
+        </code>
+      </anatomic-surface>
+    </immunization>
+  </data-xml>
+</thing>
